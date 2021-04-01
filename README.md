@@ -7,7 +7,7 @@ A simple app displaying shows using the TV Maze API.
 
 | Home | Single Movie |
 |------|-------|
-|<img src="screenshots/screen1.png" width="400">|<img src="screenshots/screen2.png" width="300">|
+|<img src="screenshots/screen1.png" width="300">|<img src="screenshots/screen2.png" width="300">|
 
 
 ## 🔌 Plugins
